@@ -1,1 +1,0 @@
-Neste projeto está inserido vários exercícios que realizei para aprender python
